@@ -22,7 +22,6 @@ export default {
 </template>
 
 
-
 <style>
 .col-33 {
   margin: 10px;
